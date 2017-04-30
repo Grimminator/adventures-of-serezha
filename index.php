@@ -9,7 +9,7 @@
 <div id="title">Serezha's Adventures</div>
 <div id="icon" onclick=location.href='grenadagallery.html'; style=cursor:pointer;>
     <h1>Grenada</h1>
-    <div class="image"><img src="IMG_3420.JPG"></div>
+    <div class="image"><img src="/IMG_3420.JPG"></div>
 </div>
 <div id="icon1">
     <h1>Russia</h1>
