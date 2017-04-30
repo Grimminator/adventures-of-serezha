@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Sergey's Adventures</title>
+    <title>Sergey's Life</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css?family=Baloo" rel="stylesheet">
 </head>
